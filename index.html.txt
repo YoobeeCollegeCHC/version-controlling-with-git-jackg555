@@ -2,6 +2,5 @@
 	<head> CS202 </head>
 	<body>
 		<h1>Weclome to Github Actions</h1>
-		<h2>Testing Files</h2>
 	</body>
 </html>
